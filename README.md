@@ -13,5 +13,6 @@ This project demonstrates how to:
    conda create -n sam2 python=3.12
    conda activate sam2
    pip install "git+https://github.com/facebookresearch/sam2.git"
-   pip install -r requirements.txt 
-3. Run ```python main.py``` and look at results in test_output.mp4
+   pip install -r requirements.txt
+3. Run ```sh download_model.sh``` to download required .pt file for inference
+4. Run ```python main.py``` and look at results in test_output.mp4
