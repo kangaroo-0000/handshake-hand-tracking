@@ -1,0 +1,9 @@
+# core
+numpy
+opencv-python
+mediapipe
+
+# PyTorch
+torch
+torchvision
+torchaudio
